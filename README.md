@@ -1,18 +1,35 @@
-# ARTI402 - Lab 1
+# ARTI402 — Deep Learning Labs
 
-## Neural Networks Fundamentals
+This repository contains my completed lab assignments for the ARTI402 Deep Learning course.
 
-This repository contains my completed Lab 1 for the ARTI402 course.
+## Lab 1 — Neural Network Fundamentals
 
-### Topics Covered
-- Neurons, weights, and biases
-- Activation and step functions
-- Neural network layers
-- NumPy arrays and shapes
-- Dot products
-- Batch processing
-- Neural network architecture
-- Parameter counting
+This lab covers:
 
-### Lab
-Lab 1 – Neural Networks Fundamentals and NumPy Exercises
+* Neurons, weights, and biases
+* Dense layers
+* Matrix multiplication
+* Forward propagation
+* Building a basic neural network using NumPy
+
+**Notebook:** [arti402_lab1_2240005619.ipynb](arti402_lab1_2240005619.ipynb)
+
+## Lab 2 — Activations, Loss, and Network Learning
+
+This lab covers:
+
+* ReLU, sigmoid, and softmax activation functions
+* Dense-layer implementation
+* Categorical cross-entropy loss
+* Numerical derivatives and gradient descent
+* Backpropagation and the chain rule
+* Training a neural network using NumPy
+
+**Notebook:** [arti402_lab2_2240005619.ipynb](arti402_lab2_2240005619.ipynb)
+
+## Tools Used
+
+* Python
+* NumPy
+* Matplotlib
+* Jupyter Notebook
